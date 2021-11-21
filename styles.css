@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+.header-section{
+  padding-left: 40px;
+  padding-bottom: 10px;
+  position: fixed;
+  padding-top: 0%;
+}
+.topnav{
+float: right;
+overflow: hidden;
+text-decoration: none;
+}
+
+
+.video{
+  border-top: 5px solid lightgray;
+ background-color: lightgray;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.video-section{
+  background-color:lightgray;
+  float: left;
+  width:75%;
+
+}
+.article-video-section{
+  padding-top: 20px;
+ font-size: 150%;
+ font-family:Arial, Helvetica, sans-serif;
+ font-weight: bold;
+
+}
+.playlist-section{
+  background-color:lightgray;
+  padding-top: 20px;
+  float: left;
+  width:25%;
+  padding-left: 0px; 
+  
+ }
+.article-img{
+  padding-left: 55%;
+  font-size: 130%;
+  
+}
